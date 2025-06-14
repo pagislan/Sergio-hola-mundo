@@ -1,8 +1,7 @@
 package holamundo;
 
 /**
- * Autor: Alvarado
- * Proyecto: Hola Mundo en NetBeans
+ * creador:Sergio Valencia
  */
 
 public class HolaMundo {
