@@ -1,6 +1,6 @@
 package holamundo;
 
-/**
+/*
  * creador:Sergio Valencia
  */
 
